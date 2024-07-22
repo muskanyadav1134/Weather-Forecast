@@ -44,6 +44,6 @@ This project uses the OpenWeatherMap API to fetch weather data.
 
 <h3>Acknowledgments</h3>
 Thanks to OpenWeatherMap for providing the weather data API.
-Inspiration from various weather forecast services and web design resources.
-<h3>Screenshots</h3>
-Here are some screenshots of the Weather Forecast Website:![Weatherforecast](https://github.com/user-attachments/assets/5830175c-4f4d-45bf-a368-0677bfea493b)
+
+
+
